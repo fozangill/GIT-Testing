@@ -5,4 +5,5 @@ echo "main message";
 echo "new feature-3 message";
 echo "now from main into feature-3 branch";
 echo "now stash command turn comes";
+echo "reabse command time";
 ?>
